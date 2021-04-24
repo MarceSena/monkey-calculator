@@ -19,7 +19,7 @@ body{
     width: 300px;
     min-height: 500px;
     margin-left: -330px;
-    box-shadow: 0 0 100px rgba(144, 3, 156, 0.4); 
+    box-shadow: 0 0 100px rgba(86, 2, 94, 0.4); 
     position :relative;
     padding: 10px;
 }
@@ -52,6 +52,7 @@ body{
 }
 
 .calculator > .result-section .result-input{
+    margin-top: 6px;
     bottom: 10px;
     font-size: 1.1rem;
 }
@@ -72,7 +73,7 @@ body{
     justify-content: center;
     font-weight: bold;
     cursor: pointer;
-    background: #70006bb2;
+    background: #9a44ebb2;
     color: white;
     border-radius: 50%;
     user-select: none;
